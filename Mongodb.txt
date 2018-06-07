@@ -1,0 +1,16 @@
+Mongodb commands:
+
+use Contas;
+db.createCollection("Conta");
+db.Conta.insert({ 
+  ID: 198882,
+  Nome: 'Jeff Bezos',
+  Saldo: Number(2.500),
+  Data_abertura_da_conta: "04/07/1994" 
+});
+db.Conta.insert({ 
+  ID: 188872,
+  Nome: 'Jack Ma',
+  Saldo: Number(5000.25),
+  Data_abertura_da_conta: "04/04/1990" 
+});
