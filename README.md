@@ -1,5 +1,4 @@
 Processo Citra:
 
-Código: Node.JS
-BD: Mongodb
-Postman para teste RESTful.
+Utilizado código em Node.JS, BD: Mongodb e postman para teste da api. 
+
